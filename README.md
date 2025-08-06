@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=renquez&label=Profile%20views&color=0e75b6&style=flat" alt="renquez" /> </p>
 
-- 🔭 I’m currently working on Bachelors of Science Data Analytics at <a href="https://www.wgu.edu/">Western Governors University</a>
+- 🔭 I’m currently working on Bachelors of Science Data Analytics at <a href="https://www.wgu.edu/" target="_blank">Western Governors University</a>
 
 - 🌱 I’m currently learning **Big Data Foundations**
 
