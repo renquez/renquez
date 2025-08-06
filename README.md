@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=renquez&label=Profile%20views&color=0e75b6&style=flat" alt="renquez" /> </p>
 
-- 🔭 I’m currently working on [Improving my Tableau dashboard visuals](https://public.tableau.com/app/profile/raul.enriquez)
+- 🔭 I’m currently working on Bachelors of Science Data Analytics at Werstern Governors University
 
-- 🌱 I’m currently learning **Forecasting with R**
+- 🌱 I’m currently learning **Big Data Foundations**
 
-- 📫 Reach me at **raul_enriquez30@hotmail.com**
+- 📫 Reach me at **ren_quez@outlook.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
