@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on Bachelors of Science Data Analytics at <a href="https://www.wgu.edu/" target="_blank">Western Governors University</a>
 
-- 🌱 I’m currently learning **Big Data Foundations**
+- 🌱 I’m currently learning **Data Governance**
 
 - 📫 Reach me at **ren_quez@outlook.com**
 
