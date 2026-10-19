@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on Bachelors of Science Data Analytics at <a href="https://www.wgu.edu/" target="_blank">Western Governors University</a>
 
-- 🌱 I’m currently learning **Data Governance**
+- 🌱 I’m currently learning **Deploying Machine learning Models with FastAPI**
 
 - 📫 Reach me at **ren_quez@outlook.com**
 
